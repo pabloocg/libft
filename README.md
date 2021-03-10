@@ -91,15 +91,15 @@ You must also re-code the following functions, using the function “malloc”:
 ### Bonus Part
 > Having functions to manipulate memory and strings is very useful, but you’ll soon discover that having functions to manipulate lists is even more useful.
 
-- [ft_lstnew](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstnew.c)
-- [ft_lstadd_front](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstadd_front.c)
-- [ft_lstsize](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstsize.c)
-- [ft_lstlast](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstlast.c)
-- [ft_lstadd_back](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstadd_back.c)
-- [ft_lstdelone](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstdelone.c)
-- [ft_lstclear](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstclear.c)
-- [ft_lstiter](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstiter.c)
-- [ft_lstmap](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstmap.c)
+- [ft_lstnew](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstnew_bonus.c)
+- [ft_lstadd_front](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstadd_front_bonus.c)
+- [ft_lstsize](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstsize_bonus.c)
+- [ft_lstlast](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstlast_bonus.c)
+- [ft_lstadd_back](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstadd_back_bonus.c)
+- [ft_lstdelone](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstdelone_bonus.c)
+- [ft_lstclear](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstclear_bonus.c)
+- [ft_lstiter](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstiter_bonus.c)
+- [ft_lstmap](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstmap_bonus.c)
 
 
 ## Getting Started
