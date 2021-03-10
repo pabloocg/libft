@@ -9,7 +9,7 @@
   <p align="center">
     Your very first own library
     <br />
-    <a href="https://github.com/pabloocg/libft/srcs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pabloocg/libft/tree/master/srcs"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
@@ -45,61 +45,61 @@ The aim of this project is to code a C library regrouping usual functions that y
 
 These function do not need any external functions:
 
-- [memset](https://github.com/pabloocg/libft/srcs/ft_memset.c)
-- [bzero](https://github.com/pabloocg/libft/srcs/ft_bzero.c)
-- [memcpy](https://github.com/pabloocg/libft/srcs/ft_memcpy.c)
-- [memccpy](https://github.com/pabloocg/libft/srcs/ft_memccpy.c)
-- [memmove](https://github.com/pabloocg/libft/srcs/ft_memmove.c)
-- [memchr](https://github.com/pabloocg/libft/srcs/ft_memchr.c)
-- [memcmp](https://github.com/pabloocg/libft/srcs/ft_memcmp.c)
-- [strlen](https://github.com/pabloocg/libft/srcs/ft_strlen.c)
-- [strlcpy](https://github.com/pabloocg/libft/srcs/ft_strlcpy.c)
-- [strlcat](https://github.com/pabloocg/libft/srcs/ft_strlcat.c)
-- [strchr](https://github.com/pabloocg/libft/srcs/ft_strchr.c)
-- [strrchr](https://github.com/pabloocg/libft/srcs/ft_strrchr.c)
-- [strncmp](https://github.com/pabloocg/libft/srcs/ft_strncmp.c)
-- [atoi](https://github.com/pabloocg/libft/srcs/ft_atoi.c)
-- [isalpha](https://github.com/pabloocg/libft/srcs/ft_isalpha.c)
-- [isdigit](https://github.com/pabloocg/libft/srcs/ft_isdigit.c)
-- [isalnum](https://github.com/pabloocg/libft/srcs/ft_isalnum.c)
-- [isascii](https://github.com/pabloocg/libft/srcs/ft_isascii.c)
-- [isprint](https://github.com/pabloocg/libft/srcs/ft_isprint.c)
-- [toupper](https://github.com/pabloocg/libft/srcs/ft_toupper.c)
-- [tolower](https://github.com/pabloocg/libft/srcs/ft_tolower.c)
+- [memset](https://github.com/pabloocg/libft/blob/master/srcs/ft_memset.c)
+- [bzero](https://github.com/pabloocg/libft/blob/master/srcs/ft_bzero.c)
+- [memcpy](https://github.com/pabloocg/libft/blob/master/srcs/ft_memcpy.c)
+- [memccpy](https://github.com/pabloocg/libft/blob/master/srcs/ft_memccpy.c)
+- [memmove](https://github.com/pabloocg/libft/blob/master/srcs/ft_memmove.c)
+- [memchr](https://github.com/pabloocg/libft/blob/master/srcs/ft_memchr.c)
+- [memcmp](https://github.com/pabloocg/libft/blob/master/srcs/ft_memcmp.c)
+- [strlen](https://github.com/pabloocg/libft/blob/master/srcs/ft_strlen.c)
+- [strlcpy](https://github.com/pabloocg/libft/blob/master/srcs/ft_strlcpy.c)
+- [strlcat](https://github.com/pabloocg/libft/blob/master/srcs/ft_strlcat.c)
+- [strchr](https://github.com/pabloocg/libft/blob/master/srcs/ft_strchr.c)
+- [strrchr](https://github.com/pabloocg/libft/blob/master/srcs/ft_strrchr.c)
+- [strncmp](https://github.com/pabloocg/libft/blob/master/srcs/ft_strncmp.c)
+- [atoi](https://github.com/pabloocg/libft/blob/master/srcs/ft_atoi.c)
+- [isalpha](https://github.com/pabloocg/libft/blob/master/srcs/ft_isalpha.c)
+- [isdigit](https://github.com/pabloocg/libft/blob/master/srcs/ft_isdigit.c)
+- [isalnum](https://github.com/pabloocg/libft/blob/master/srcs/ft_isalnum.c)
+- [isascii](https://github.com/pabloocg/libft/blob/master/srcs/ft_isascii.c)
+- [isprint](https://github.com/pabloocg/libft/blob/master/srcs/ft_isprint.c)
+- [toupper](https://github.com/pabloocg/libft/blob/master/srcs/ft_toupper.c)
+- [tolower](https://github.com/pabloocg/libft/blob/master/srcs/ft_tolower.c)
 
 You must also re-code the following functions, using the function “malloc”:
 
-- [calloc](https://github.com/pabloocg/libft/srcs/ft_calloc.c)
-- [strdup](https://github.com/pabloocg/libft/srcs/ft_strdup.c)
+- [calloc](https://github.com/pabloocg/libft/blob/master/srcs/ft_calloc.c)
+- [strdup](https://github.com/pabloocg/libft/blob/master/srcs/ft_strdup.c)
 
 
 ### Part 2 - Additional functions
 > In this second part, you must code a set of functions that are either not included in the libc, or included in a different form. Some of these functions can be useful to write Part1’s functions.
 
-- [ft_substr](https://github.com/pabloocg/libft/srcs/ft_substr.c)
-- [ft_strjoin](https://github.com/pabloocg/libft/srcs/ft_strjoin.c)
-- [ft_strtrim](https://github.com/pabloocg/libft/srcs/ft_strtrim.c)
-- [ft_split](https://github.com/pabloocg/libft/srcs/ft_split.c)
-- [ft_itoa](https://github.com/pabloocg/libft/srcs/ft_itoa.c)
-- [ft_strmapi](https://github.com/pabloocg/libft/srcs/ft_itoa.c)
-- [ft_putchar_fd](https://github.com/pabloocg/libft/srcs/ft_putchar_fd.c)
-- [ft_putstr_fd](https://github.com/pabloocg/libft/srcs/ft_putstr_fd.c)
-- [ft_putendl_fd](https://github.com/pabloocg/libft/srcs/ft_putendl_fd.c)
-- [ft_putnbr_fd](https://github.com/pabloocg/libft/srcs/ft_putnbr_fd.c)
+- [ft_substr](https://github.com/pabloocg/libft/blob/master/srcs/ft_substr.c)
+- [ft_strjoin](https://github.com/pabloocg/libft/blob/master/srcs/ft_strjoin.c)
+- [ft_strtrim](https://github.com/pabloocg/libft/blob/master/srcs/ft_strtrim.c)
+- [ft_split](https://github.com/pabloocg/libft/blob/master/srcs/ft_split.c)
+- [ft_itoa](https://github.com/pabloocg/libft/blob/master/srcs/ft_itoa.c)
+- [ft_strmapi](https://github.com/pabloocg/libft/blob/master/srcs/ft_itoa.c)
+- [ft_putchar_fd](https://github.com/pabloocg/libft/blob/master/srcs/ft_putchar_fd.c)
+- [ft_putstr_fd](https://github.com/pabloocg/libft/blob/master/srcs/ft_putstr_fd.c)
+- [ft_putendl_fd](https://github.com/pabloocg/libft/blob/master/srcs/ft_putendl_fd.c)
+- [ft_putnbr_fd](https://github.com/pabloocg/libft/blob/master/srcs/ft_putnbr_fd.c)
 
 
 ### Bonus Part
 > Having functions to manipulate memory and strings is very useful, but you’ll soon discover that having functions to manipulate lists is even more useful.
 
-- [ft_lstnew](https://github.com/pabloocg/libft/srcs/ft_lstnew.c)
-- [ft_lstadd_front](https://github.com/pabloocg/libft/srcs/ft_lstadd_front.c)
-- [ft_lstsize](https://github.com/pabloocg/libft/srcs/ft_lstsize.c)
-- [ft_lstlast](https://github.com/pabloocg/libft/srcs/ft_lstlast.c)
-- [ft_lstadd_back](https://github.com/pabloocg/libft/srcs/ft_lstadd_back.c)
-- [ft_lstdelone](https://github.com/pabloocg/libft/srcs/ft_lstdelone.c)
-- [ft_lstclear](https://github.com/pabloocg/libft/srcs/ft_lstclear.c)
-- [ft_lstiter](https://github.com/pabloocg/libft/srcs/ft_lstiter.c)
-- [ft_lstmap](https://github.com/pabloocg/libft/srcs/ft_lstmap.c)
+- [ft_lstnew](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstnew.c)
+- [ft_lstadd_front](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstadd_front.c)
+- [ft_lstsize](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstsize.c)
+- [ft_lstlast](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstlast.c)
+- [ft_lstadd_back](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstadd_back.c)
+- [ft_lstdelone](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstdelone.c)
+- [ft_lstclear](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstclear.c)
+- [ft_lstiter](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstiter.c)
+- [ft_lstmap](https://github.com/pabloocg/libft/blob/master/srcs/ft_lstmap.c)
 
 
 ## Getting Started
