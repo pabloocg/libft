@@ -137,6 +137,6 @@ Pablo Cuadrado García </br>
 [Linkedin][linkedin-url] - pablocuadrado97@gmail.com
 
 [license-logo]: https://img.shields.io/hexpm/l/plug?style=for-the-badge
-[license-url]: https://github.com/pabloocg/libft/LICENSE.txt
+[license-url]: https://github.com/pabloocg/libft/blob/master/LICENSE.txt
 [linkedin-url]: https://linkedin.com/in/pablo-cuadrado97
 
